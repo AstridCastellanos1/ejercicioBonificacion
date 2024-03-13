@@ -29,6 +29,7 @@ namespace ejercicioBonificacion
                 salarioTotal = salario + (salario * 1.25);
             }
             Console.WriteLine("salario total es de : {0}", salarioTotal);
+            Console.WriteLine("Esto es un mensaje de pruebas ");
 
         }
     }
