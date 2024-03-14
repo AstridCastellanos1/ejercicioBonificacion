@@ -17,6 +17,7 @@ namespace ejercicioBonificacion
             Console.WriteLine("Ingrese salario: ");
             double salario = double.Parse(Console.ReadLine());
             double salarioTotal = 0;
+            double slarioPromedio = 0;
             if ( anios >=1 && anios < 2)
             {
                 salarioTotal = salario + (salario *0.15);
