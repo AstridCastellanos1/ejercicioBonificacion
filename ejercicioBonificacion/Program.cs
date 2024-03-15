@@ -32,6 +32,7 @@ namespace ejercicioBonificacion
             }
             Console.WriteLine("salario total es de : {0}", salarioTotal);
             Console.WriteLine("Esto es un mensaje de pruebas ");
+            Console.WriteLine("Esto es un mensaje de pruebas de Astrid");
         }
     }
 }
