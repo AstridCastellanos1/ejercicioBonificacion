@@ -10,6 +10,7 @@ namespace ejercicioBonificacion
     {
         static void Main(string[] args)
         {
+            ///Pruebas Astrid
 
             Console.WriteLine("Ingrese años Laborales: ");
             double anios = double.Parse(Console.ReadLine());
@@ -31,7 +32,6 @@ namespace ejercicioBonificacion
             }
             Console.WriteLine("salario total es de : {0}", salarioTotal);
             Console.WriteLine("Esto es un mensaje de pruebas ");
-
         }
     }
 }
